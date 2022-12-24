@@ -485,7 +485,7 @@ void reset() {
 }
 
 void gameOver() {
-  println("Thanks for playing, Made with chatGPT on 12/23/2022");
+  println("Thanks for playing, Made with chatGPT on 12/24/2022");
   exit();
 }
 
